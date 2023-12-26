@@ -10,7 +10,7 @@ export default function Main() {
   }
 
   return (
-    <div className="w-2/3 h-screen flex flex-col items-center justify-center">
+    <div className="w-[60%] h-screen flex flex-col items-center justify-center bg-[#D2E3C8]">
       <OreCounter />
       <div
         className="w-60 h-60 rounded-full bg-red-500"
